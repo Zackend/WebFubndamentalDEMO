@@ -1,0 +1,26 @@
+body {
+    color: red;
+}
+h1 {
+    color: purple;
+}
+.purple {
+    color: green;
+    background-color: grey;
+}
+#important {
+    color: black;
+    border: 2px solid black;
+}
+.half_and_half  {
+    border: 2px solid black;
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+}
+a   {
+    size: 50px;
+    width: 3cm;
+    color:blue;
+    background-color:black; 
+}
